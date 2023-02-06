@@ -36,6 +36,7 @@ Una volta modificato il file avvieremo il programma con python3 :
 python3 regi-DnsUpdater-Windows.py
 ```
 #### Utenti Linux
+Per gli utenti linux il programma si avviera in modalita nascosta se si vuol vedere il browser modificare la linea 73 mettendo visible=100.
 ```
 python3 regi-DnsUpdater-Linux.py
 ```
