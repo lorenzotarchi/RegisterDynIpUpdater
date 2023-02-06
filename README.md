@@ -7,6 +7,8 @@ Per utilizzare questo progetto, sarà necessario installare Selenium e alcune di
 
 Il programma riconoscerà in automatico quando l'ip è cambiato, la prima volta che verrà eseguito si eseguirà senza fare nessun controllo. 
 
+ALLERTA SPOILER
+NON SONO UN PROGRAMMATORE - SE AVETE SUGGERIMENTI SUL MIGLIORAMENTO DEL CODICE CONTRIBUITE :)
 ## Progetto di aggiornamento DNS con Python Selenium
 Questo progetto utilizza il framework Python Selenium per automatizzare l'aggiornamento del DNS sul sito Register.it.
 ### Requisiti
